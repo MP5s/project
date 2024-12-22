@@ -59,4 +59,4 @@
     "error": "Invalid request body"
 }
 ```
-_Сам проверял через POSTMAN_
+~_Сам проверял через POSTMAN_~
