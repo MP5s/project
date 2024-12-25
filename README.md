@@ -114,7 +114,6 @@ or in POSTMAN
 }
 ```
 Ответ:
-or in POSTMAN
 ```json
 {
     "error": "division by zero"
