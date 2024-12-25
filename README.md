@@ -8,7 +8,8 @@
 
 > git clone https://github.com/MP5s/project.git
 
-2. ```bash
+2.
+```bash
 cd project
 ```
 
