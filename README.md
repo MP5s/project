@@ -5,9 +5,9 @@
 ## Инструкция по установке
 
 1. Клонируйте проект.
-
-> git clone https://github.com/MP5s/project.git
-
+```bash
+git clone https://github.com/MP5s/project.git
+```
 2.
 ```bash
 cd project
